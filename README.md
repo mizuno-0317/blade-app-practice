@@ -1,3 +1,27 @@
+# blade-app-practice
+
+## 概要
+COACHTECH 教材 Tutorial 9-2「Bladeテンプレート ハンズオン演習」で作成した成果物です。
+商品一覧を表示するページを作成しました。
+
+## 使用技術
+- PHP 8.2
+- Laravel 10.0
+- Blade テンプレート
+
+## 学んだこと
+- blade.phpの読み取りについて
+- 読み取った内容を実装する方法について
+- ルート、コントローラー、Viewの繋がりについて
+
+## 動作確認
+http://localhost/products　にアクセスして動作確認しました。
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
